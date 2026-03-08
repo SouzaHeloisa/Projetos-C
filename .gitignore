@@ -1,0 +1,16 @@
+# Arquivos compilados
+*.exe
+*.out
+*.o
+
+# Pastas de build
+build/
+bin/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações de editor
+.vscode/
+.idea/
