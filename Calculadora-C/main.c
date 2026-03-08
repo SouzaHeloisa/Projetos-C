@@ -56,7 +56,7 @@ int main() {
         }if (opcao == 5) {
             printf("===== Saindo da calculadora. Ate logo! =====\n");
         } else if (opcao < 1 || opcao > 5) {
-            printf("===== Opcao invalida. Por favor, escolha uma opcao entre 1 e 5. =====\n");
+            printf("===== Opcao invalida. Por favor, escolha uma opcao entre 1 e 5. git=====\n");
         }
     }while (opcao != 5);    
 
