@@ -1,73 +1,38 @@
 # 💻 Projetos em C
 
-Repositório criado para armazenar projetos desenvolvidos durante meus estudos da linguagem **C**.
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
-O objetivo é praticar lógica de programação, organização de código e conceitos fundamentais da linguagem.
+Repositório com projetos desenvolvidos durante meus estudos da linguagem C.
 
 ---
 
 # 🚀 Projetos
 
-## 🧮 Calculadora em C
-
-Calculadora simples desenvolvida para praticar conceitos básicos da linguagem.
-
-### Funcionalidades
-
-✔ Soma
-✔ Subtração
-✔ Multiplicação
-✔ Divisão
-
-📂 Código do projeto:
-
-```
-Calculadora-C/main.c
-```
+| Projeto | Descrição | Linguagem |
+|-------|-------|-------|
+| Calculadora | Calculadora com operações básicas | C |
 
 ---
 
-# 🛠 Tecnologias utilizadas
+# 🛠 Tecnologias
 
-* Linguagem **C**
-* **GCC** (compilador)
-* **VS Code**
-* **Git**
-* **GitHub**
-
----
-
-# 📚 O que estou aprendendo
-
-* Estruturas condicionais
-* Funções
-* Organização de projetos
-* Entrada e saída de dados
-* Controle de fluxo
-* Uso de Git e GitHub
+- C
+- GCC
+- Git
+- GitHub
+- VS Code
 
 ---
 
-# 🎯 Objetivo deste repositório
+# 📚 Objetivo
 
-Registrar minha evolução na programação através de pequenos projetos práticos.
-
-Novos projetos serão adicionados conforme avanço nos estudos.
-
----
-
-# 📌 Próximos projetos
-
-* 🎮 Jogo da Velha em C
-* 🌡 Conversor de Temperatura
-* 📝 Sistema simples de notas
-* 📊 Estruturas de dados básicas
+Praticar programação e registrar minha evolução na linguagem C.
 
 ---
 
 # 👩‍💻 Autora
 
-**Heloisa Souza**
-
-GitHub:
+Heloisa Souza  
 https://github.com/SouzaHeloisa
