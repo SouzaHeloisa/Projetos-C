@@ -1,31 +1,25 @@
-# 📚 Projetos em C
+# 💻 Projetos em C
 
 Repositório criado para armazenar projetos desenvolvidos durante meus estudos da linguagem **C**.
 
-Aqui você encontrará pequenos projetos focados em praticar lógica de programação, estrutura de código e conceitos fundamentais da linguagem.
+O objetivo é praticar lógica de programação, organização de código e conceitos fundamentais da linguagem.
 
 ---
 
-## 🚀 Projetos
+# 🚀 Projetos
 
-### 🧮 Calculadora em C
+## 🧮 Calculadora em C
 
-Uma calculadora simples desenvolvida para praticar:
+Calculadora simples desenvolvida para praticar conceitos básicos da linguagem.
 
-* Estruturas condicionais
-* Funções
-* Organização de código
-* Entrada e saída de dados
-* Operações matemáticas básicas
+### Funcionalidades
 
-**Operações disponíveis**
+✔ Soma
+✔ Subtração
+✔ Multiplicação
+✔ Divisão
 
-* Soma
-* Subtração
-* Multiplicação
-* Divisão
-
-📂 Caminho do projeto:
+📂 Código do projeto:
 
 ```
 Calculadora-C/main.c
@@ -33,33 +27,47 @@ Calculadora-C/main.c
 
 ---
 
-## 🛠 Tecnologias utilizadas
+# 🛠 Tecnologias utilizadas
 
 * Linguagem **C**
 * **GCC** (compilador)
 * **VS Code**
-* **Git e GitHub**
+* **Git**
+* **GitHub**
 
 ---
 
-## 🎯 Objetivo do repositório
+# 📚 O que estou aprendendo
 
-Este repositório faz parte do meu processo de aprendizado em programação, registrando minha evolução através de projetos práticos.
-
----
-
-## 📌 Próximos projetos
-
-* Jogo da Velha em C
-* Conversor de temperatura
-* Sistema simples de notas
-* Estruturas de dados básicas
+* Estruturas condicionais
+* Funções
+* Organização de projetos
+* Entrada e saída de dados
+* Controle de fluxo
+* Uso de Git e GitHub
 
 ---
 
-## 👩‍💻 Autora
+# 🎯 Objetivo deste repositório
 
-Desenvolvido por **Heloisa Souza**
+Registrar minha evolução na programação através de pequenos projetos práticos.
+
+Novos projetos serão adicionados conforme avanço nos estudos.
+
+---
+
+# 📌 Próximos projetos
+
+* 🎮 Jogo da Velha em C
+* 🌡 Conversor de Temperatura
+* 📝 Sistema simples de notas
+* 📊 Estruturas de dados básicas
+
+---
+
+# 👩‍💻 Autora
+
+**Heloisa Souza**
 
 GitHub:
 https://github.com/SouzaHeloisa
